@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi there, I'm Jahswill,
 
-<!--
-**jahs-will/Jahs-will** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my portfolio! I'm a programmer, and i specialize in web development, software development and i'm passionate about building impactful projects and continuously learning new things.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🌐project jahs (#)
+- trying to create an identification card.
+- Tech Stack: HTML, CSS, VS code,
+- Key Features: under construction
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** HTML,CSS, Python, C++, Javascript
+- **Frameworks:** React, Node.js, Django, Flutter
+- **Tools:** Git, Firebase, VS Code, CMDER
+
+---
+
+## 📫 Contact Me
+
+- Email: asonwajahswill@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jahswill-asonwa-4926012bb/
+- Portfolio Website:file:///C:/Users/butt/Desktop/website/css%20basics1.html
+
+---
+
+Thanks for stopping by! ⭐
